@@ -1,1 +1,1 @@
-usethis::use_github()
+head(ngstan::dte)
